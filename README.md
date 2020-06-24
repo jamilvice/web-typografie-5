@@ -18,7 +18,7 @@ Voice1 zegt meerdere keren het woord 'cells' & 'interlinked'. Dit wordt veel lui
 
 # Closed Caption
 Er wordt een rode flow effect op het fragment toegevoegd om het geluid te visualiseren. Marie had als tip om dit effect te beschrijven zodat ze wist wat voor geluid het was.
-Op basis hiervan heb ik de caption met de tekst 'ominous sound' toegevoegd bij het rode glow effect.
+Op basis hiervan heb ik de caption met de tekst 'ominous sound' toegevoegd bij het rode glow effect. Deze heeft de font 'Brenner Sans' en is rood gemaakt in dezelfde kleur van de glow effect, zodat het duidelijk is dat de omscrijving bij het glow effect hoort.
 
 # Glow effect
 Er wordt een rode flow effect op het fragment toegevoegd om het spannende 'peep' geluid te visualiseren. In het eerste deel van de video is de peep kort maar krachtig en wordt het steeds luider. De glow effect gaat hierdoor ook steeds sneller heen en weer. In het 2e deel van de video komt deze peep geluid terug, maar met een hele andere wendig met een mysterieuze achtergrond geluid erbij die een heel andere sfeer brengt. 
@@ -40,4 +40,8 @@ Ik had dus een rood glow effect gezet op de video op de achtergrond wat het onhe
 Daarom heb ik een beschrijving van het geluid "ominous sound" toegevoegd als antwoord op haar feedback.
 
 De 2 voices die spreken heb ik ieder een aparte lettertype gegeven zodat het duidelijk is wie wat zegt. Alleen op het moment dat de computer voice INTERLINKED schreeuwt, heb ik dit een andere lettertype gegeven. Dit vond Marie niet duidelijk en daardoor wist ze niet meer wie nou INTERLINKED zei, hierdoor heb ik dit dezelfde lettertype gegeven als degene die de robot voice de hele tijd heeft.
+
+# Herkansing
+Voor de herkansing heb ik zoals boven genoemd ook het 2e deel van de video bewerkt. Ook had ik in bepaalde momenten van de video het fragment in en uit laten zoomen wat niet helemaal logisch was, omdat er op dat moment geen geluid was. Dit heb ik dus weg gehaald. Ook heb ik alles wat meer structuur gegeven, bepaalde teksten zaten nog rommelig op hun plek. Ik heb meer met 'em' (ipv px) en met text-align:center gewerkt.
+
 
