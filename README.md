@@ -44,4 +44,9 @@ De 2 voices die spreken heb ik ieder een aparte lettertype gegeven zodat het dui
 # Herkansing
 Voor de herkansing heb ik zoals boven genoemd ook het 2e deel van de video bewerkt. Ook had ik in bepaalde momenten van de video het fragment in en uit laten zoomen wat niet helemaal logisch was, omdat er op dat moment geen geluid was. Dit heb ik dus weg gehaald. Ook heb ik alles wat meer structuur gegeven, bepaalde teksten zaten nog rommelig op hun plek. Ik heb meer met 'em' (ipv px) en met text-align:center gewerkt.
 
+# Prioritise identity
+De doelgroep een actieve rol laten spelen in het design proces was hier heel handig. Je leert veel kritischer kijken en ziet het perspectief van de doelgroep nog meer wat natuurlijk ideaal is. Na elke feedbackronde met Marie snapte ik wat er anders moest en het hielp me ook beter begrijpen me in te leven in de doelgroep.
+
+# Add Nonsense
+Dit principe heeft mij heel erg geholpen in het design proces. Voor deze doelgroep is er nog niet veel ontworpen en er is nog niet zoveel over bekend. Daarom moet je buiten de box denken om zo op nieuwe oplossingen te komen. Ik heb in het proces zoveel mogelijk dingen geprobeerd om te kijken wat wel en niet werkt. Vervolgens na de feedback sessies wist ik wat wel overbodig was en wat niet.
 
