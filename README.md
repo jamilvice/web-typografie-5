@@ -1,4 +1,4 @@
-# web-typografie-5
+# web-typografie
 
 # Voices
 In het fragment werk ik met verschillende lettertypes binnen de Brenner font. 
